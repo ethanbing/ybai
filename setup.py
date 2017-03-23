@@ -16,7 +16,7 @@ setup(
     version=version,
     packages=find_packages(),
     package_data={
-        '': ['*.rst'],
+        '': ['*.md'],
     },
     include_package_data=True,
     entry_points={
